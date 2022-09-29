@@ -46,3 +46,4 @@ before entering a page.
  return message
 }
 document.write(welcome);
+document.write(message);
